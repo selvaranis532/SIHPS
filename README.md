@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:30.11.2024
-## Register Number:24901160
-## Name:s.selvarani
+# Date: 17-11-2025
+## Name:SELVARANI S
+## Register Number:212224040301
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
